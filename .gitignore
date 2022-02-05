@@ -1,0 +1,4 @@
+bin/
+result.csv
+
+__pycache__
